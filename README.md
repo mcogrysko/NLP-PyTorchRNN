@@ -8,3 +8,5 @@ Build classifier to distinguish between English and Scottish surnames
 - PyTorch RNN with 10-fold cross validation performance
 - Tune by setting WEIGHTS to None
 - Set performance metric to F1-score and compare results
+
+<i><a href="https://mcogrysko.github.io">Back to Mike Ogrysko's portfolio</a></i>
